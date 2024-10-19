@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(3, 26, 154) ;
+    line-height: 1.7em;
+}
+h1 {
+    color:rgb(230, 230, 230);
+    font-size: 55px;
+    margin-bottom: 100px;
+    padding-left: 630px;
+}
+p {
+    border-bottom: thin dotted #77777777;
+color:white ;
+font-size: 40px;
+background-color: rgb(3, 26, 154);
+transition: background-color 1s ease-in-out;
+}
+p:hover {
+background-color: rgb(1, 2, 67);
+}
